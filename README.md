@@ -31,7 +31,7 @@ Junior software developer passionate about building scalable and clean solutions
 ## 🚀 Featured Projects
 
 - ✨ Freelance Project: Internal process automation for a Colombian company using Node.js, Express, Firebase, GCP, and React.
-- 🚴 [DeliveryMotorcycle](https://github.com/JuanManuelMartinezS/deliveryMotorcycle): App for managing deliveries, restaurants, and customers with React, Firebase, and SQLite.
+- 🚴 [DeliveryMotorcycle](https://github.com/JuanManuelMartinezS/deliveryMotorcycle): App for managing deliveries, restaurants, and customers with Python, Flask, React, and SQLite.
 - 🔐 [Shipping](https://github.com/JuanManuelMartinezS/shipping): Shipping management application with a Java backend and a frontend using JS, HTML, CSS, and Bootstrap.
 - 🌲 [Trees](https://github.com/JuanManuelMartinezS/trees): Architectural layout management tool using data structures in Python and Pygame.
 - 📿 [Graphs](https://github.com/JuanManuelMartinezS/graphs): Cycling route planner using graph data structures in Python, React, Leaflet API, and OpenRouteService.
