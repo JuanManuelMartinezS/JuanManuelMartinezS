@@ -31,7 +31,7 @@ Junior software developer passionate about building **scalable** and **clean sol
 
 - ✨ **Freelance Project:** Developed an internal process automation solution for a Colombian company using Node.js, Express, Firebase, GCP, and React (TypeScript).
 - 🚴 **[DeliveryMotorcycle](https://github.com/JuanManuelMartinezS/deliveryMotorcycle):** An application for managing deliveries, restaurants, and customers, built with React, TypeScript, Python, and Firebase Authentication.
-- 🔐 **[Shipping](https://github.com/JuanManuelMartinezS/shipping):** A shipping management application featuring a Java backend and a frontend developed with JavaScript, HTML, CSS, and Bootstrap.
+- 🔐 **[Shipping](https://github.com/JuanManuelMartinezS/shipping):** A shipping management application featuring Java backend (REST API with Maven) built upon all fundamental Object-Oriented Programming (OOP) principles and a frontend developed with JavaScript, HTML, CSS, and Bootstrap.
 - **[Naval Battle Game](https://github.com/JuanManuelMartinezS/NavalBattleJS):** A classic Naval Battle game implemented with JavaScript, HTML, CSS, Bootstrap, and a Python backend.
 - **[Security Frontend](https://github.com/JuanManuelMartinezS/SecurityAngular):** A security frontend application developed with Angular, TypeScript, Tailwind, a Python backend, and Google Authentication.
 - 🌲 **[Trees](https://github.com/JuanManuelMartinezS/trees):** An architectural layout management tool that utilizes tree data structures in Python and Pygame.
