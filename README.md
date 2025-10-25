@@ -1,9 +1,10 @@
 # Hola, soy **Juan Manuel Martínez Sánchez**
 
-Ingeniero de Sistemas y Computación con enfoque en el **desarrollo full stack** y experiencia en la construcción de **arquitecturas limpias, escalables y seguras**.  
+Ingeniero de Sistemas y Computación, mi enfoque combina la ingeniería de software con la integración de **Inteligencia Artificial**, aplicando técnicas de *Deep Learning*, *Machine Learning* y flujos **MLOps**.  
 He trabajado con **microservicios**, **automatización con IA**, **arquitecturas limpias**, y **despliegues en la nube**, aplicando principios **SOLID**, **DDD** y **buenas prácticas de desarrollo**.
+Tambien tengo enfoque en el **desarrollo full stack** y experiencia en la construcción de **arquitecturas limpias, escalables y seguras**
 
-Mi enfoque combina la ingeniería de software con la integración de **Inteligencia Artificial**, aplicando técnicas de *Deep Learning*, *Machine Learning* y flujos **MLOps**.
+
 
 ---
 
