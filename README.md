@@ -1,4 +1,4 @@
-#Hola, soy **Juan Manuel Martínez Sánchez**
+# Hola, soy **Juan Manuel Martínez Sánchez**
 
 Ingeniero de Sistemas y Computación con enfoque en el **desarrollo full stack** y experiencia en la construcción de **arquitecturas limpias, escalables y seguras**.  
 He trabajado con **microservicios**, **automatización con IA**, **arquitecturas limpias**, y **despliegues en la nube**, aplicando principios **SOLID**, **DDD** y **buenas prácticas de desarrollo**.
@@ -7,9 +7,9 @@ Mi enfoque combina la ingeniería de software con la integración de **Inteligen
 
 ---
 
-##Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
-###**Backend**
+### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=flat&logo=adonisjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -19,7 +19,7 @@ Mi enfoque combina la ingeniería de software con la integración de **Inteligen
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-###**Inteligencia Artificial**
+### **Inteligencia Artificial**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-0A66C2?style=flat&logo=mlflow&logoColor=white)
@@ -27,7 +27,7 @@ Mi enfoque combina la ingeniería de software con la integración de **Inteligen
 - Machine Learning clásico (clasificación, regresión, clustering)  
 - Integración con APIs de LLMs (ChatGPT, Gemini, Copilot)
 
-###**Frontend**
+### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -37,7 +37,7 @@ Mi enfoque combina la ingeniería de software con la integración de **Inteligen
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-###**Bases de Datos**
+### **Bases de Datos**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -46,7 +46,7 @@ Mi enfoque combina la ingeniería de software con la integración de **Inteligen
 - Bases relacionales y no relacionales  
 - Bases vectoriales para búsqueda por imágenes y texto  
 
-###**Cloud y DevOps**
+### **Cloud y DevOps**
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -60,7 +60,7 @@ Mi enfoque combina la ingeniería de software con la integración de **Inteligen
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 ### **Desarrollo de Modelos de Inteligencia Artificial Aplicados a Casos Reales**
 Participé en el desarrollo de modelos de inteligencia artificial aplicados a diversos casos de investigación reales, utilizando técnicas de *Deep Learning* (CNN, Transfer Learning, Autoencoders, modelos multimodales) y *Machine Learning*.  
@@ -85,7 +85,7 @@ Diseño de módulos para red social con emparejamiento de usuarios y generación
 
 ---
 
-## 🧠 Intereses Actuales
+## Intereses Actuales
 - Arquitecturas limpias, microservicios y sistemas distribuidos  
 - MLOps y automatización de pipelines de IA  
 - Aplicaciones web con integración de modelos de Machine Learning y Deep Learning  
