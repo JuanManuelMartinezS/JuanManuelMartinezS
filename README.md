@@ -1,6 +1,6 @@
 # Hola, soy **Juan Manuel Martínez Sánchez**
 
-Ingeniero de Sistemas y Computación, mi enfoque combina la ingeniería de software con la integración de **Inteligencia Artificial**, aplicando técnicas de *Deep Learning*, *Machine Learning* y flujos **MLOps**.  
+Estudiante de Ingenieria de Sistemas y Computación, mi enfoque combina la ingeniería de software con la integración de **Inteligencia Artificial**, aplicando técnicas de *Deep Learning*, *Machine Learning* y flujos **MLOps**.  
 He trabajado con **microservicios**, **automatización con IA**, **arquitecturas limpias**, y **despliegues en la nube**, aplicando principios **SOLID**, **DDD** y **buenas prácticas de desarrollo**.
 Tambien tengo enfoque en el **desarrollo full stack** y experiencia en la construcción de **arquitecturas limpias, escalables y seguras**
 
@@ -27,6 +27,7 @@ Tambien tengo enfoque en el **desarrollo full stack** y experiencia en la constr
 - Deep Learning (CNN, Autoencoders, Transfer Learning, modelos multimodales)  
 - Machine Learning clásico (clasificación, regresión, clustering)  
 - Integración con APIs de LLMs (ChatGPT, Gemini, Copilot)
+- n8n, langraph
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -79,10 +80,7 @@ Diseño de módulos para red social con emparejamiento de usuarios y generación
 **Tecnologías:** Node.js, React, Firebase, MySQL, Google Cloud  
 
 ### **Otros Proyectos**
-- **DeliveryMotorcycle App:** Plataforma de domicilios con Flask, React y SQLite.  
-- **Shipping App:** Backend en Java (Spring Boot) y frontend con JavaScript + Bootstrap.  
-- **Graphs Project:** Planificador de rutas con algoritmos de grafos (Dijkstra, Floyd-Warshall, etc.).  
-- **Trees Project:** Herramienta de diseño basada en estructuras de árboles (Python + Pygame).  
+- Se puede ver en los pins de la parte inferior de esta vista.  
 
 ---
 
